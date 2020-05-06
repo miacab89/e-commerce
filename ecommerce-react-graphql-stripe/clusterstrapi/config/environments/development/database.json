@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "clusterstrapi",
+        "host": "cluster1-uqr4r.gcp.mongodb.net",
+        "srv": "true",
+        "port": 27017,
+        "username": "MiaLou89",
+        "password": "M1lfordx!"
+      },
+      "options": {
+        "authenticationDatabase": "",
+        "ssl": true
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "cluster1-uqr4r.gcp.mongodb.net",
+        "uri": "mongodb+srv://MiaLou89:@cluster1-uqr4r.gcp.mongodb.net/test?retryWrites=true&w=majority",
+        "srv": "true",
+        "port": 27017,
+        "database": "server",
+        "username": "MiaLou89",
+        "password": "M1lfordx!"
+      },
+      "options": {
+        "authenticationDatabase": "",
+        "ssl": true
+      }
+    }
+  }
+}
